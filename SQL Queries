@@ -1,0 +1,10 @@
+BANK LOAN REPORT QUERY DOCUMENT
+BANK LOAN REPORT | SUMMARY
+KPI’s :
+Total Loan Applications
+SELECT COUNT(id) as Total_Loan_Applications FROM financial_loan
+ 
+MTD Loan Application
+SELECT COUNT(id) AS MTD_Total_Applications FROM financial_loan
+WHERE MONTH(issue_date) = 12
+
