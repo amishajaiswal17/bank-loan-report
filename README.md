@@ -1,4 +1,4 @@
-# BANK LOAN PORTFOLIO ANALYSIS DASHBOARD | POWER BI
+# BANK LOAN PORTFOLIO ANALYSIS DASHBOARD | POWER BI , SQL
 
 An end-to-end POWER BI   business intelligence solution analyzing 38,600+ loan appliactions to monitor portfolio health, detect risk, and drive data-informed lending decisions.
 
